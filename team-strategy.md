@@ -1,3 +1,5 @@
+# Team strategy
+
 This article discusses the team strategy for ACM ICPC style contest where you are 3 people in a team and compete for 5 hours. There are other team contests with different rules but I only focus on ICPC.
 
 These are the three most important facts you should bear in mind during the ACM ICPC contest:
@@ -10,7 +12,7 @@ From the 3 facts above you can derive a very good strategy. At the beginning of 
 
 The other two non-coding teammates continue skimming through the problem set. If something easier than the first problem is located (solvable in 5 minutes), it takes priority. After at least one member of the team has read each problem statement, the two non-coding teammates should discuss all the problems they have just read.
 
-''What should not happen in the beginning:'' After reading the first problem I see that I am able solve it. I ignore other problems and continue solving this problem for the next 2 hours without success, while there were were 2 other easier tasks that I didn't read. That's one of the reasons why reading all problems and discussion between members in the beginning are so important.
+*What should not happen in the beginning:* After reading the first problem I see that I am able solve it. I ignore other problems and continue solving this problem for the next 2 hours without success, while there were were 2 other easier tasks that I didn't read. That's one of the reasons why reading all problems and discussion between members in the beginning are so important.
 
 The team continues with solving problems. If someone knows how to solve a problem and nobody uses computer, he/she should code it. If the computer is not available, prepare the code on the paper.
 
@@ -43,6 +45,6 @@ You are now familiar with the overall strategy. Let us discuss other tips.
 
 * In some cases you want to assign one person to work on a hard problem 2-3 hours before the end, because you want to avoid the following situation. Suppose everything goes well and you take turns using the computer, solving the 8th problem after 4 hours. There are two hard problems left but to solve each one you need one hour of thinking and 45 minutes of programming. Theoretically you have 3 &times; 1 hours split among three people which is more than 1:45 hours, but the one thinking hour cannot be split between three people and you need to wait for the solution before you start writing it.
 
-* So called ''free submit'' mode is to be used with caution. If it is not clear, its meaning is roughly "at this point, solving another problem is more important than any time penalty it can possibly cost us so let's just submit as soon as we have something that has a non-zero probability of getting accepted". Usually it is not entered until the last 30 minutes or so, but if you have a bad start with many incorrect submissions so that you already have a large penalty, it can sometimes be entered very early (and sometimes exited if the outlook improves).
+* So called *free submit* mode is to be used with caution. If it is not clear, its meaning is roughly "at this point, solving another problem is more important than any time penalty it can possibly cost us so let's just submit as soon as we have something that has a non-zero probability of getting accepted". Usually it is not entered until the last 30 minutes or so, but if you have a bad start with many incorrect submissions so that you already have a large penalty, it can sometimes be entered very early (and sometimes exited if the outlook improves).
 
 * ICPC contests last for 5 hours, but training for 5 hours can block your whole day. You can do 3.5 to 4-hour trainings instead and the effect might be equally good. Even marathon runners run only 30 kilometers a day before the marathon while the actual race is 42 kilometers.
