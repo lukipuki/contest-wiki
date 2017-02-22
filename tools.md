@@ -1,6 +1,7 @@
 This chapter talks about various tools that can help you. I only write about the tools I know and it's not meant to be a comprehensive guide to all editors, shells, version control systems and command line utilities that exist. It rather shows some examples how various tools can help you, but you might have a different preference when it comes to an editor, shell etc.
 
 ## Vim
+
 Vim is a very powerful text editor you probably heard about.
 <blockquote>Vim is not about speed, it's about comfort. — ''JHChabran''</blockquote>
 
@@ -13,24 +14,24 @@ Suppose you want to swap 2 lines of code, because you wrote them in the wrong or
 Yes, Vim saves you one or two seconds with this operation. But it's more important that you barely need to focus on the action. The sequence "ddP" is so short and you probably use it so often, that it becomes a muscle memory and you barely have to think about it. The beauty of Vim is that it is a tool that doesn't get in the way.
 
 ###=External links
-* [http://yannesposito.com/Scratch/en/blog/Learn-Vim-Progressively/ Learn Vim Progressively] by Yann Esposito
-* [http://www.viemu.com/a-why-vi-vim.html Why, oh WHY, do those #?@! nutheads use vi?] by Jon Beltran de Heredia
-* [http://stevelosh.com/blog/2010/09/coming-home-to-vim/ Coming Home to Vim] by Steve Losh
-* [http://www.viemu.com/a_vi_vim_graphical_cheat_sheet_tutorial.html Graphical vim Cheat Sheet and Tutorial]
-* [http://vimbits.com/bits?sort=top Vimbits], the best settings for .vimrc voted by other users.
-* [http://vimawesome.com/ Vim Awesome]
+* [Learn Vim Progressively](http://yannesposito.com/Scratch/en/blog/Learn-Vim-Progressively/) by Yann Esposito
+* [Why, oh WHY, do those #?@! nutheads use vi?](http://www.viemu.com/a-why-vi-vim.html) by Jon Beltran de Heredia
+* [Coming Home to Vim](http://stevelosh.com/blog/2010/09/coming-home-to-vim/) by Steve Losh
+* [Graphical vim Cheat Sheet and Tutorial](http://www.viemu.com/a_vi_vim_graphical_cheat_sheet_tutorial.html)
+* [Vimbits](http://vimbits.com/bits?sort=top), the best settings for .vimrc voted by other users.
+* [Vim Awesome](http://vimawesome.com/)
 
 ## zsh
 A shell more user-friendly than bash.
 
 
-### External links ===
-* [http://friedcpu.wordpress.com/2007/07/24/zsh-the-last-shell-youll-ever-need/ zsh: The last shell you’ll ever need!]
-* [http://grml.org/zsh/zsh-lovers.html zsh-lovers man page] with a lot of useful examples
-* [http://www.bash2zsh.com/zsh_refcard/refcard.pdf zsh reference card] with all important information condensed into a few pages.
-* [http://reasoniamhere.com/2014/01/11/outrageously-useful-tips-to-master-your-z-shell/] great tutorial on zsh.
-* [https://github.com/zsh-users/antigen Antigen] is a plugin manager for zsh similar to Vundle for Vim.
-http://reasoniamhere.com/2014/01/11/outrageously-useful-tips-to-master-your-z-shell/
+### External links
+
+* [zsh: The last shell you’ll ever need!](http://friedcpu.wordpress.com/2007/07/24/zsh-the-last-shell-youll-ever-need/)
+* [zsh-lovers man page](http://grml.org/zsh/zsh-lovers.html) with a lot of useful examples
+* [zsh reference card](http://www.bash2zsh.com/zsh_refcard/refcard.pdf) with all important information condensed into a few pages.
+* [Master Your Z Shell with These Outrageously Useful Tips](http://reasoniamhere.com/2014/01/11/outrageously-useful-tips-to-master-your-z-shell/) great tutorial on zsh.
+* [Antigen](https://github.com/zsh-users/antigen) is a plugin manager for zsh similar to Vundle for Vim.
 
 ## Mercurial
 Version control system simpler than git but still better than SVN or CVS, which should suit your needs in most cases.
