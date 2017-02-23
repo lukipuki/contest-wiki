@@ -20,5 +20,5 @@ My name is [Lukáš Poláček](http://www.csc.kth.se/~polacek/) and I'm currentl
 
 As for my achievements, probably the most valuable one is bronze medal from ACM ICPC 2010. The second would be achieving maximum [rating 2676](http://community.topcoder.com/tc?module=MemberProfile&cr=14769155) on TopCoder.
 
-### Contact
+### Contact <a id="contact"></a>
 I am not a certified ''programming coach'', neither do I have a formal education in psychology and a lot of this advice is based on personal experience and anecdotes. So I expect some of my statements to be wrong. If you think that's the case,  [send me an e-mail](mailto:polacek+wiki@csc.kth.se) or discuss the issue in the [TopCoder Forums](http://apps.topcoder.com/forums/?module=Thread&threadID=783336).
